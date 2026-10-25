@@ -6,7 +6,7 @@
 
 Everything for the course lives here: every notebook opens in **Google Colab** with one click, and every dataset loads straight from this repo, so there is nothing to install, download, or mount.
 
-> 🚧 **Being rebuilt for Spring 2027.** Module 2 (forecasting) is the new version. Weeks 1–4 point to the Python Bootcamp, which is being refreshed. Module 3 still points to the previous version of the course.
+> 🚧 **Being rebuilt for Spring 2027.** Weeks 1–4 (Python Bootcamp) and Module 2 (forecasting) are the new versions. Module 3 still points to the previous version of the course.
 
 ## How to use this repo
 1. Find the week below and click the notebook's **Colab** link.
@@ -17,10 +17,10 @@ Everything for the course lives here: every notebook opens in **Google Colab** w
 
 | Week | Module | Topic | Materials |
 |---|---|---|---|
-| 1 | **M1 Python Bootcamp** 🐍 | Welcome · Colab · Python basics | [Bootcamp Module 1: Python Basics](https://github.com/drdave-teaching/OPIM-Python-Bootcamp#module-1--python-basics-required) (notebooks 0–1) |
-| 2 | M1 Python Bootcamp | pandas: tables, selecting, descriptive statistics | [Bootcamp Module 1: Python Basics](https://github.com/drdave-teaching/OPIM-Python-Bootcamp#module-1--python-basics-required) (notebook 2 + Project 1) |
-| 3 | M1 Python Bootcamp | Exploratory data analysis on real Connecticut home sales | [Bootcamp Module 2: EDA](https://github.com/drdave-teaching/OPIM-Python-Bootcamp#module-2--exploratory-data-analysis-required) |
-| 4 | M1 Python Bootcamp | Dirty data, missing values, reshaping and joins | [Bootcamp Module 3: Dirty Data](https://github.com/drdave-teaching/OPIM-Python-Bootcamp#module-3--dirty-data-optional-go-deeper) |
+| 1 | **M1 Python Bootcamp** 🐍 | Welcome · Colab · Python basics | [Python Basics, notebooks 0–1](https://github.com/drdave-teaching/OPIM3510-BDA1/tree/main/M1_Python_Bootcamp#weeks-12--python-basics) |
+| 2 | M1 Python Bootcamp | pandas: tables, selecting, descriptive statistics | [Python Basics, notebook 2 + Project 1](https://github.com/drdave-teaching/OPIM3510-BDA1/tree/main/M1_Python_Bootcamp#weeks-12--python-basics) |
+| 3 | M1 Python Bootcamp | Exploratory data analysis on real Connecticut home sales | [EDA walkthrough + Project 2](https://github.com/drdave-teaching/OPIM3510-BDA1/tree/main/M1_Python_Bootcamp#week-3--exploratory-data-analysis-on-connecticut-home-sales) |
+| 4 | M1 Python Bootcamp | Dirty data, missing values, reshaping and joins | [Dirty data notebooks](https://github.com/drdave-teaching/OPIM3510-BDA1/tree/main/M1_Python_Bootcamp#week-4--dirty-data) |
 | 5 | **M1 Ship it** 🚀 | GitHub portfolio · meet Claude · Project 1 (EDA) | [`M1_Week05_GitHub_and_Claude`](M1_Week05_GitHub_and_Claude) *(coming soon)* |
 | 6 | **M2 Forecasting** 📈 | Time-series data: Connecticut's electricity demand | [Open in Colab](https://colab.research.google.com/github/drdave-teaching/OPIM3510-BDA1/blob/main/M2_Forecasting/Week06_TimeSeriesData/1_CT_Electricity_Demand.ipynb) |
 | 7 | M2 Forecasting | Baselines, moving averages, and how not to cheat | [Open in Colab](https://colab.research.google.com/github/drdave-teaching/OPIM3510-BDA1/blob/main/M2_Forecasting/Week07_Baselines_MovingAverages/1_CT_Baselines_and_Moving_Averages.ipynb) · bonus: [momentum trading](https://colab.research.google.com/github/drdave-teaching/OPIM3510-BDA1/blob/main/M2_Forecasting/Week07_Baselines_MovingAverages/bonus_MomentumTrading.ipynb) |
@@ -49,6 +49,8 @@ One forecasting problem all module long, **forecasting Connecticut's daily elect
 | [`ct_daily_demand_2011_2021.csv`](data/ct_daily_demand_2011_2021.csv) | The clean daily version built in Week 6 (GWh/day, average + max temperature) |
 | [`ct_heating_oil_weekly_2019_2023.csv`](data/ct_heating_oil_weekly_2019_2023.csv) | Weekly CT retail heating oil prices, Oct 2019 – Oct 2023 |
 | [`GLD.csv`](data/GLD.csv) | Daily prices for the GLD gold ETF, Nov 2004 – Oct 23, 2026 (saved from Yahoo Finance) |
+| [`ct_home_sales_2025.csv`](data/ct_home_sales_2025.csv) | ~27,000 CT home sales (Oct 2024 – Sep 2025) with price, bedrooms, baths, square feet, year built, heating fuel and location. From [CT OPM Real Estate Sales](https://data.ct.gov/d/5mzw-sjtu) + [2025 CT Parcel and CAMA Data](https://data.ct.gov/d/rny9-6ak2); addresses and owner names removed, coordinates rounded |
+| *(more)* | Python Bootcamp data: California housing, CT town data, CT solar, AAPL, Bradley Airport weather, ISO-NE load (see the notebooks in [`M1_Python_Bootcamp`](M1_Python_Bootcamp)) |
 
 ## Previous version
 The Spring 2024 materials are archived at [drdave-teaching/OPIM3510-notebooks](https://github.com/drdave-teaching/OPIM3510-notebooks).
