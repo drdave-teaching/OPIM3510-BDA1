@@ -24,7 +24,7 @@ Everything for the course lives here: every notebook opens in **Google Colab** w
 | 5 | **M1 Ship it** 🚀 | GitHub portfolio · meet Claude · Project 1 (EDA) | [`M1_Week05_GitHub_and_Claude`](M1_Week05_GitHub_and_Claude) *(coming soon)* |
 | 6 | **M2 Forecasting** 📈 | Time-series data: Connecticut's electricity demand | [Open in Colab](https://colab.research.google.com/github/drdave-teaching/OPIM3510-BDA1/blob/main/M2_Forecasting/Week06_TimeSeriesData/1_CT_Electricity_Demand.ipynb) |
 | 7 | M2 Forecasting | Baselines, moving averages, and how not to cheat | [Open in Colab](https://colab.research.google.com/github/drdave-teaching/OPIM3510-BDA1/blob/main/M2_Forecasting/Week07_Baselines_MovingAverages/1_CT_Baselines_and_Moving_Averages.ipynb) · bonus: [momentum trading](https://colab.research.google.com/github/drdave-teaching/OPIM3510-BDA1/blob/main/M2_Forecasting/Week07_Baselines_MovingAverages/bonus_MomentumTrading.ipynb) |
-| 8 | M2 Forecasting | Exponential smoothing and Holt-Winters | [`Week08_ExponentialSmoothing`](M2_Forecasting/Week08_ExponentialSmoothing) *(coming soon)* |
+| 8 | M2 Forecasting | Exponential smoothing and Holt-Winters | [Open in Colab](https://colab.research.google.com/github/drdave-teaching/OPIM3510-BDA1/blob/main/M2_Forecasting/Week08_ExponentialSmoothing/1_CT_Exponential_Smoothing.ipynb) |
 | — | Spring break | | |
 | 9 | M2 Forecasting | Project 2 | [`Week09_Project2`](M2_Forecasting/Week09_Project2) *(coming soon)* |
 | 10 | **M3 Stats + Maps** 🗺️ | Distributions, sampling, the central limit theorem | [previous version](https://github.com/drdave-teaching/OPIM3510-notebooks/tree/master/Module3_Stats_Geospatial/1_Distributions) |
