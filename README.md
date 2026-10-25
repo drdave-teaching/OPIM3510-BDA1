@@ -17,10 +17,10 @@ Everything for the course lives here: every notebook opens in **Google Colab** w
 
 | Week | Module | Topic | Materials |
 |---|---|---|---|
-| 1 | **M1 Python Bootcamp** 🐍 | Welcome · Colab · Python basics | [Bootcamp: Data Wrangling](https://github.com/drdave-teaching/OPIM-Python-Bootcamp/tree/main/M1_1_DataWrangling) |
-| 2 | M1 Python Bootcamp | pandas: tables, selecting, descriptive statistics | [Bootcamp: Data Wrangling](https://github.com/drdave-teaching/OPIM-Python-Bootcamp/tree/main/M1_1_DataWrangling) |
-| 3 | M1 Python Bootcamp | Exploratory data analysis: plots that tell a story | [Bootcamp: Basic EDA](https://github.com/drdave-teaching/OPIM-Python-Bootcamp/tree/main/M1_2_BasicEDA) |
-| 4 | M1 Python Bootcamp | Dirty data, missing values, joins | [Bootcamp: Dirty Data](https://github.com/drdave-teaching/OPIM-Python-Bootcamp/tree/main/M2_1_DirtyData) |
+| 1 | **M1 Python Bootcamp** 🐍 | Welcome · Colab · Python basics | [Bootcamp Module 1: Python Basics](https://github.com/drdave-teaching/OPIM-Python-Bootcamp#module-1--python-basics-required) (notebooks 0–1) |
+| 2 | M1 Python Bootcamp | pandas: tables, selecting, descriptive statistics | [Bootcamp Module 1: Python Basics](https://github.com/drdave-teaching/OPIM-Python-Bootcamp#module-1--python-basics-required) (notebook 2 + Project 1) |
+| 3 | M1 Python Bootcamp | Exploratory data analysis on real Connecticut home sales | [Bootcamp Module 2: EDA](https://github.com/drdave-teaching/OPIM-Python-Bootcamp#module-2--exploratory-data-analysis-required) |
+| 4 | M1 Python Bootcamp | Dirty data, missing values, reshaping and joins | [Bootcamp Module 3: Dirty Data](https://github.com/drdave-teaching/OPIM-Python-Bootcamp#module-3--dirty-data-optional-go-deeper) |
 | 5 | **M1 Ship it** 🚀 | GitHub portfolio · meet Claude · Project 1 (EDA) | [`M1_Week05_GitHub_and_Claude`](M1_Week05_GitHub_and_Claude) *(coming soon)* |
 | 6 | **M2 Forecasting** 📈 | Time-series data: Connecticut's electricity demand | [Open in Colab](https://colab.research.google.com/github/drdave-teaching/OPIM3510-BDA1/blob/main/M2_Forecasting/Week06_TimeSeriesData/1_CT_Electricity_Demand.ipynb) |
 | 7 | M2 Forecasting | Baselines, moving averages, and how not to cheat | [Open in Colab](https://colab.research.google.com/github/drdave-teaching/OPIM3510-BDA1/blob/main/M2_Forecasting/Week07_Baselines_MovingAverages/1_CT_Baselines_and_Moving_Averages.ipynb) · bonus: [momentum trading](https://colab.research.google.com/github/drdave-teaching/OPIM3510-BDA1/blob/main/M2_Forecasting/Week07_Baselines_MovingAverages/bonus_MomentumTrading.ipynb) |
