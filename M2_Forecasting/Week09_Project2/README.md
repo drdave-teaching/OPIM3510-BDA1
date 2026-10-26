@@ -29,10 +29,12 @@ Start here: [**Open the starter notebook in Colab**](https://colab.research.goog
 4. **Always report skill vs. naive.**
 
 ## What to submit
-Push these to your **team's GitHub repo** and submit the repo link in HuskyCT:
+Push these to your **team's GitHub repo** (`opim3510-project2-teamN`, with `drdave-teaching` as a collaborator; set it up like [Week 5, step 5](../../M1_Week05_GitHub_and_Claude/1_GitHub_Portfolio_Guide.md#step-5-team-repos-for-projects-1-and-2)) and submit the repo link in HuskyCT:
 1. `Project2_Forecasting_CT_Demand.ipynb`: run top to bottom, with headers, comments and plots.
 2. `AI_LOG.md`: copy [the template](AI_LOG_template.md) and fill it in as you go, not the night before.
 3. `README.md`: team names, one-paragraph summary of your best model, and links to each member's video.
+
+**No NetIDs or student ID numbers anywhere in the repo.** After grades are in, add the project to your personal portfolio (Week 5, step 6). It's a great interview story.
 
 ## Walk-through videos (every team member)
 After you submit, **Dr. Dave will email each of you a section of your notebook** (for example, *"cell 23: your weekday adjustment"*). Record a **3–5 minute** video (Kaltura or unlisted YouTube) explaining:
